@@ -49,7 +49,7 @@ rustup update
 
 The project was a good introduction to Rust and probably will not be extended in the future. However, if the project 
 is extended, the following features will be added:
------
+
 - [ ] Implement Custom Errors and add Error Handling
 - [ ] Implement a CLI where the user can play the game through the terminal
 - [ ] Implement a GUI same as the CLI but through a graphical interface
